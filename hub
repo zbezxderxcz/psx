@@ -1,6 +1,6 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/zbezxderxcz/Gui/main/loadgui.lua%22))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zbezxderxcz/Gui/main/loadgui.lua"))()
     end)
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/zbezxderxcz/new/main/loadfunctions.lua%22))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zbezxderxcz/new/main/loadfunctions.lua"))()
 end)
